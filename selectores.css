@@ -1,0 +1,102 @@
+/*body {
+	margin: 0 auto;
+}
+
+ Selector de ID
+#contenedor-principal {
+    border: 2px solid blue;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+ Selector de clase 
+.texto-importante {
+    font-weight: bold;
+    color: green;
+}
+
+/* Selector de atributo 
+li[data-tema="principal"] {
+    background-color: lightyellow;
+}
+
+/* Selector de pseudoclase 
+a:hover {
+    color: orange;
+    text-decoration: none;
+}
+
+button:disabled {
+    background-color: #ccc;
+    color: #666;
+    cursor: not-allowed;
+}*/
+
+#contenedor {
+    width: 700px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+}
+
+#cabecera {
+    width: 100%;
+ 
+}
+
+#img_juego {
+    float: right;
+    width: 100px;
+}
+
+#menu {
+    float: left;
+    width: 150px;
+    
+}
+
+#contenido {
+    float: left;
+    width: 540px;
+}
+
+#pie {
+    clear: both;
+    }
+
+
+
+.titulo {
+    background-color: #dddddd;
+    padding: 5px;
+    border-bottom: 3px solid black;
+}
+
+.verde {
+    background-color: #00FF00;
+}
+
+.naranja {
+    color: orangered;
+    font-weight: bold;
+}
+
+.amarillo {
+    background-color: yellow;
+}
+
+.cyan {
+    background-color: cyan;
+}
+
+.rojo {
+    color: red;
+}
+
+.tachado {
+   
+    text-decoration: line-through;
+}
+
+.azul{
+    color: blue;
+}
